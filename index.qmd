@@ -19,7 +19,7 @@ format:
     controls: true
     echo: true
 fig-cap-location: bottom
-bibliography: CASA0023_Sensor_Presentation.bib
+bibliography: CASA0023_Week2_Presentation.bib
 csl: harvard-cite-them-right
 editor: visual
 ---
