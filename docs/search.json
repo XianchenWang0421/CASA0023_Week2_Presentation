@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html#introduction-to-landsat-8",
+    "href": "index.html#introduction-to-landsat-8",
+    "title": "LANDSAT 8",
+    "section": "Introduction to Landsat 8",
+    "text": "Introduction to Landsat 8\n\nLandsat 8 launched on February 11, 2013\nIt is formerly known as the Landsat Data Continuity Mission (LDCM), and it was developed as a collaboration between NASA and the U.S. Geological Survey (USGS)\nIt is used for moderate-resolution optical remote sensing for land, coastal areas and shallow waters\nIt provides continuity with the more than 40-year long Landsat land imaging data set\n\n\n\n\n\n\n\nSource: (NASA, 2021; ESA, n/d)"
+  },
+  {
+    "objectID": "index.html#instruments",
+    "href": "index.html#instruments",
+    "title": "LANDSAT 8",
+    "section": "Instruments",
+    "text": "Instruments\n\nThe Operational Land Imager (OLI) and the Thermal Infrared Sensor (TIRS):\n\nOLI collects data for visible, near infrared, and short wave infrared spectral bands as well as a panchromatic band\nTIRS collects data for two more narrow spectral bands in the thermal region\n\nSpatial resolution: 30 meters (visible, NIR, SWIR); 100 meters (thermal); 15 meters (panchromatic).\n\n\n\n\nComparison of OLI and TIRS spectral bands with Landsat 7′s ETM+ bands\n\n\n\nSource: (NASA, 2021)"
+  },
+  {
+    "objectID": "index.html#value-of-different-bands",
+    "href": "index.html#value-of-different-bands",
+    "title": "LANDSAT 8",
+    "section": "Value of different bands",
+    "text": "Value of different bands\n\n\nBand 1 senses deep blues and violets. It is used for imaging shallow water, and tracking fine particles like dust and smoke\nBands 2, 3, and 4 are visible blue, green, and red\nBand 5 measures the near infrared, or NIR. It is especially important for ecology because healthy plants reflect it\nBands 6 and 7 cover different slices of the shortwave infrared, or SWIR. They are particularly useful for telling wet earth from dry earth, and for geology\n\n…\n\n\n\n\n\n\nBands 2, 3, and 4\n\n\n\n\n\n\nBand 5\n\n\n\n\n\n\nBands 6 and 7\n\n\n\n\n\nSource: (NASA, 2021)"
+  },
+  {
+    "objectID": "index.html#mission-target",
+    "href": "index.html#mission-target",
+    "title": "LANDSAT 8",
+    "section": "Mission target",
+    "text": "Mission target\nLandsat 8 is part of the larger Landsat program\nSince 1972, Landsat satellites have continuously acquired space-based images of the Earth’s land surface.\n\n\n\n\n\n\nSource: (USGS, n/d)"
+  },
+  {
+    "objectID": "index.html#research-using-landsat-8-data",
+    "href": "index.html#research-using-landsat-8-data",
+    "title": "LANDSAT 8",
+    "section": "Research using Landsat 8 data",
+    "text": "Research using Landsat 8 data\nActive fire detection using Landsat-8/OLI data (Schroeder et al., 2016)\nThis article presents an active fire detection algorithm for Landsat-8 satellite data. Compared to coarser satellite fire data, the spatially-refined Landsat-8 detections enable new landscape-scale analyses and applications, including assimilation into weather-fire models and tactical fire management.\n\nEstimation of land surface temperature of dindigul district using Landsat 8 data (Rajeshwari A, 2014)\nThis article estimates land surface temperature (LST) for Dindigul district in Tamil Nadu, India using Landsat 8 satellite data. The paper effectively uses Landsat 8 data and the SW algorithm to map LST variations across Dindigul district, relating it to factors like land cover and elevation. The 30m resolution allows detailed LST analysis for climate and land studies."
+  },
+  {
+    "objectID": "index.html#research-using-landsat-8-data-1",
+    "href": "index.html#research-using-landsat-8-data-1",
+    "title": "LANDSAT 8",
+    "section": "Research using Landsat 8 data",
+    "text": "Research using Landsat 8 data\nApplications of Landsat-8 data: A survey (Ridwan et al., 2018)\nThe article is a survey of the applications of Landsat-8 data in fields such as agriculture, forestry, land use, geology, hydrology, coastal resources, and environmental monitoring. And it emphasizes the suitability and accuracy of Landsat-8 data for various applications and its potential for monitoring environmental and natural resource-related variables.\n\nLand cover classification using Landsat 8 operational land imager data in Beijing, China (Jia et al., 2014)\nThe article discusses the use of Landsat 8 Operational Land Imager (OLI) data for land cover classification in Beijing, China. It compares the data quality of OLI and Landsat 7 ETM+ data using texture features and evaluates the performance of OLI data for land cover classification. The study found that OLI data had satisfactory performance, with overall classification accuracy exceeding 90%. It provides valuable insights into the use of OLI data for land cover classification."
+  },
+  {
+    "objectID": "index.html#reflection",
+    "href": "index.html#reflection",
+    "title": "LANDSAT 8",
+    "section": "Reflection",
+    "text": "Reflection\n\nLandsat 8 was a satellite launched by NASA, as part of the Landsat program. Landsat 8 carries the Operational Land Imager (OLI) and the Thermal Infrared Sensor (TIRS)\nLandsat 8 data can be used in environmental monitoring, agricultural monitoring, water resource management, etc.\nLandsat data is freely available to the public, following a long-standing tradition of the Landsat program’s open data policy. This has encouraged widespread use and application of the data in various fields.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (NASA, 2021)"
+  },
+  {
+    "objectID": "index.html#reflection-1",
+    "href": "index.html#reflection-1",
+    "title": "LANDSAT 8",
+    "section": "Reflection",
+    "text": "Reflection\n\nLandsat 8 enables the creation of time series data, allowing researchers to analyze changes over time. This is valuable for studying long-term trends and understanding the dynamics of Earth’s surface.\nFuture work and applications of Landsat 8:\n\nChange monitoring: monitoring and understanding the impact of climate change on the earth’s surface\n\nDisaster response: assessing and responding to natural disasters such as floods, wildfires and earthquakes\n\nUrban planning: the high-resolution imagery supports urban planners in monitoring and managing urban growth and infrastructure development"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "LANDSAT 8",
+    "section": "References",
+    "text": "References\n\n\n\nSensor Presentation • Xianchen Wang\n\n\n\nESA (n/d) “Landsat Series - Earth Online.” Available at: https://earth.esa.int/eogateway/missions/landsat (Accessed: January 18, 2024).\n\n\nJia, K. et al. (2014) “Land cover classification using Landsat 8 Operational Land Imager data in Beijing, China,” Geocarto International, 29(8), pp. 941–951. doi: 10.1080/10106049.2014.894586.\n\n\nNASA (2021) “Landsat 8 | Landsat Science.” Available at: https://landsat.gsfc.nasa.gov/satellites/landsat-8/ (Accessed: January 18, 2024).\n\n\nRajeshwari A, M. N. D. (2014) “ESTIMATION OF LAND SURFACE TEMPERATURE OF DINDIGUL DISTRICT USING LANDSAT 8 DATA,” International Journal of Research in Engineering and Technology, 03(05), pp. 122–126. doi: 10.15623/ijret.2014.0305025.\n\n\nRidwan, M. A. et al. (2018) “Applications of Landsat-8 Data: A Survey,” International Journal of Engineering & Technology, 7(4.35), p. 436. doi: 10.14419/ijet.v7i4.35.22858.\n\n\nSchroeder, W. et al. (2016) “Active fire detection using Landsat-8/OLI data,” Remote Sensing of Environment, 185, pp. 210–220. doi: 10.1016/j.rse.2015.08.032.\n\n\nUSGS (n/d) “Landsat Missions Timeline | U.S. Geological Survey.” Available at: https://www.usgs.gov/media/images/landsat-missions-timeline (Accessed: January 20, 2024)."
+  }
+]
