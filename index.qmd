@@ -99,25 +99,25 @@ Source: [@USGSn/d]
 
 #### Active fire detection using Landsat-8/OLI data [@Schroeder2016]
 
-This article presents an active fire detection algorithm for Landsat-8 satellite data. Compared to coarser satellite fire data, the spatially-refined Landsat-8 detections enable new landscape-scale analyses and applications, including assimilation into weather-fire models and tactical fire management.
+The researchers created a new way to find fires using pictures from the Landsat-8 satellite, which takes photos using special light channels that can see fires. But the algorithm may not work as well in all situations because it sometimes gets confused by bright surfaces or when the fire is very small, which can make it miss some fires.
 
 <br />
 
 #### Estimation of land surface temperature of dindigul district using Landsat 8 data [@RajeshwariA2014]
 
-This article estimates land surface temperature (LST) for Dindigul district in Tamil Nadu, India using Landsat 8 satellite data. The paper effectively uses Landsat 8 data and the SW algorithm to map LST variations across Dindigul district, relating it to factors like land cover and elevation. The 30m resolution allows detailed LST analysis for climate and land studies.
+The paper effectively uses Landsat 8 data and the SW algorithm to map LST variations across Dindigul district, relating it to factors like land cover and elevation. The 30m resolution allows detailed LST analysis for climate and land studies. However, this study focuses only on Dindigul District, so the findings may not be applicable to other regions with different climates and geographical features.
 
 ## Research using Landsat 8 data {.smaller}
 
 #### Applications of Landsat-8 data: A survey [@Ridwan2018]
 
-The article is a survey of the applications of Landsat-8 data in fields such as agriculture, forestry, land use, geology, hydrology, coastal resources, and environmental monitoring. And it emphasizes the suitability and accuracy of Landsat-8 data for various applications and its potential for monitoring environmental and natural resource-related variables.
+The article is a survey of the applications of Landsat-8 data in fields such as agriculture, forestry, land use, geology, hydrology, coastal resources, and environmental monitoring. But it might not include detailed technical challenges or the specific limitations of Landsat data, such as resolution constraints or cloud cover issues, which are important for beginners to understand.
 
 <br />
 
 #### Land cover classification using Landsat 8 operational land imager data in Beijing, China [@Jia2014]
 
-The article discusses the use of Landsat 8 Operational Land Imager (OLI) data for land cover classification in Beijing, China. It compares the data quality of OLI and Landsat 7 ETM+ data using texture features and evaluates the performance of OLI data for land cover classification. The study found that OLI data had satisfactory performance, with overall classification accuracy exceeding 90%. It provides valuable insights into the use of OLI data for land cover classification.
+The article discusses the use of Landsat 8 Operational Land Imager (OLI) data for land cover classification in Beijing, China. It compares the data quality of OLI and Landsat 7 ETM+ data using texture features and evaluates the performance of OLI data for land cover classification. Texture features like homogeneity and contrast were used to assess data quality, but other important image quality factors might not have been considered. Moreover, the land cover classification was limited to six classes, which may not capture the full complexity of land cover types in the study area.
 
 ## Reflection {.smaller}
 
